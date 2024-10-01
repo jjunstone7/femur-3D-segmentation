@@ -2,11 +2,11 @@
 3D segmentation of femur from CT using nnUNet
 
 ## Project Overview:
-his project addresses the 3D segmentation of the femur from CT scans. Due to issues with TotalSegmentator cropping the femoral head, manual labeling of 29 datasets was conducted to improve segmentation accuracy using the nnUNet model.
+This project addresses the 3D segmentation of the femur from CT scans. Due to issues with TotalSegmentator cropping the femoral head, manual labeling of 29 datasets was conducted to improve segmentation accuracy using the nnUNet model.
 
 ## Objective:
 - Perform femur segmentation from CT scans using **nnUNet** with manually corrected 29 masks.
-- Mitigate issues related to the femoral head cropping, improving segmentation accuracy.
+- Mitigate issues related to the femoral head cropping, improving segmentation accuracy. (TotalSegmentator)
 
 ## Dataset:
 
