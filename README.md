@@ -39,10 +39,12 @@ his project addresses the 3D segmentation of the femur from CT scans. Due to iss
 Here is a comparison between the original mask and the improved mask:
 
 **Original Mask:**
-![Original Mask]([images/original_mask.png](https://github.com/user-attachments/assets/6d438db9-db4c-434c-9cb7-91deaa1232df))
+
+![Original Mask](https://github.com/user-attachments/assets/6d438db9-db4c-434c-9cb7-91deaa1232df)
 
 **Improved Mask:**
-![Improved Mask]([images/improved_mask.png](https://github.com/user-attachments/assets/a25b6100-fbee-42d4-a519-afb0086e8434))
+
+![Improved Mask](https://github.com/user-attachments/assets/a25b6100-fbee-42d4-a519-afb0086e8434)
 
 ## Future Research Directions:
 This project aims to support **downstream research** related to the femur by providing high-quality segmentation masks.
